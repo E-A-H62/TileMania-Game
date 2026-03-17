@@ -181,7 +181,7 @@
 
 | ✅ Done | ⚠️ Stuck | Task |
 |:---:|:---:|---|
-| ☐ | ⚠️ | Background music loops on AudioSource |
+| ✅ | ☐ | Background music loops on AudioSource |
 | ✅ | ☐ | Jump SFX plays when player jumps |
 | ✅ | ☐ | Shoot SFX plays when player fires |
 | ✅ | ☐ | Damage SFX plays when player is hit |
