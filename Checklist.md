@@ -224,8 +224,8 @@
 | ✅ | 🟢 | Multiple enemy types (reskins with different speeds) |
 | ☐ | 🟡 | Checkpoint system |
 | ☐ | 🟡 | Moving platform |
-| ☐ | 🟡 | Enemy with ranged attack |
-| ☐ | 🟡 | Score system with on-screen display |
+| ✅ | 🟡 | Enemy with ranged attack |
+| ✅ | 🟡 | Score system with on-screen display |
 | ☐ | 🔴 | Boss enemy with health bar |
 | ☐ | 🔴 | Multiple levels (3+) with scene transitions |
 | ☐ | 🔴 | Save system (high score persists between sessions) |
