@@ -230,8 +230,13 @@
 | ☐ | 🔴 | Multiple levels (3+) with scene transitions |
 | ☐ | 🔴 | Save system (high score persists between sessions) |
 
-**Extension chosen:** _______________________________________  
-**Brief description of what you added:** _______________________________________
+**Extension chosen:** Double jump, animated collectibles, multiple enemy types, enemy with ranged attack, score system on screen  
+**Brief description of what you added:**
+- Double jump: the player can jump twice (consecutively)
+- Animated collectibles: the collectibles are animated, floating gems
+- Multiple enemy: there are ground and air enemies
+- Enemy with ranged attack: some enemies (and obstacles) in the game can fire projectiles
+- Score system: players can view their current score (based on how many collectibles they collect) in the top right corner
 
 ---
 
