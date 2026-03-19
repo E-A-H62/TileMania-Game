@@ -137,7 +137,7 @@
 | ✅ | ☐ | Arrow destroys on hitting an enemy |
 | ✅ | ☐ | Arrow destroys on hitting ground |
 | ✅ | ☐ | Arrow has max lifetime (auto-destroys after 3s) |
-| ☐ | ⚠️ (`PlayerShooter.cs` fires on "F" button) | `PlayerShooter.cs` fires on left-click (Fire1) |
+| ☐ | ⚠️ (`PlayerShooter.cs` currently fires on "F" button) | `PlayerShooter.cs` fires on left-click (Fire1) |
 | ✅ | ☐ | Fire rate limit prevents spam |
 | ✅ | ☐ | Arrows fire in the direction the player faces |
 | ✅ | ☐ | `FirePoint` child object positioned correctly |
@@ -243,8 +243,8 @@
 | ✅ | Game is playable from Main Menu to Game Over/Win |
 | ☐ | Submitted GitHub repository link on Canvas |
 | ✅ | Repository is **public** or instructor has been given access |
-| ☐ | All 3 tutorial documents included in repo (`Tutorial.md`, `Checklist.md`, `QuickReference.md`) |
-| ☐ | Completed **Reflection Questions** (below) |
+| ✅ | All 3 tutorial documents included in repo (`Tutorial.md`, `Checklist.md`, `QuickReference.md`) |
+| ✅ | Completed **Reflection Questions** (below) |
 
 ---
 
@@ -253,28 +253,23 @@
 Answer these in **2–4 sentences each**. These are the same questions you'll revisit across all four projects — track how your thinking evolves!
 
 **1. What was your rapid prototype goal for this project?**
-
-_______________________________________________________________
+For this project, I wanted to at least create a working prototype of a 2D platformer game. My main goal in this implementation was to create different levels that players can play through.
 _______________________________________________________________
 
 **2. How closely did your final game match your original prototype vision? What changed and why?**
-
-_______________________________________________________________
+My final game matched my original prototype vision pretty well. I was able to follow the tutorial to create a game I am happy with, and I was able to include the different features I wanted (such as enemy ranged attacks).
 _______________________________________________________________
 
 **3. What is the most technically challenging thing you implemented? How did you solve it?**
-
-_______________________________________________________________
+The most challenging thing I implemented was the player collecting gems because I struggled with trying to show the score throughout the game. I was able to resolve this issue by using the GameSession values to help display the score.
 _______________________________________________________________
 
 **4. If you had one more week, what would you add or change?**
-
-_______________________________________________________________
+If I had another week, I would want to spend more time creating my own music for the game. I think this would help me create the different atmospheres that I think are present in each level.
 _______________________________________________________________
 
 **5. How does your approach to game development now compare to when you started the course?**
-
-_______________________________________________________________
+I think I have more experience with rapid-prototyping games now. With my current experience, I know to prioritize the main game mechanisms than trying to get every little detail completed.
 _______________________________________________________________
 
 ---
