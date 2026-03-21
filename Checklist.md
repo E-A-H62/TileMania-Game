@@ -3,7 +3,7 @@
 
 **Name:** Elena Hernandez  
 **Date Started:** 03/01/2026  
-**Date Submitted:** _____________________
+**Date Submitted:** 03/20/2026
 
 ---
 
@@ -244,9 +244,9 @@
 
 | ✅ | Task |
 |:---:|---|
-| ☐ | Project builds without errors (File → Build Settings → Build And Run) |
+| ✅ | Project builds without errors (File → Build Settings → Build And Run) |
 | ✅ | Game is playable from Main Menu to Game Over/Win |
-| ☐ | Submitted GitHub repository link on Canvas |
+| ✅ | Submitted GitHub repository link on Canvas |
 | ✅ | Repository is **public** or instructor has been given access |
 | ✅ | All 3 tutorial documents included in repo (`Tutorial.md`, `Checklist.md`, `QuickReference.md`) |
 | ✅ | Completed **Reflection Questions** (below) |
